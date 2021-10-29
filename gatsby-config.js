@@ -30,7 +30,7 @@ module.exports = {
     {
       resolve: `gatsby-source-wordpress`,
       options: {
-        url: `http://localhost:8888/wordpress-gatsby-sandbox/wp/graphql`,
+        url: `https://wordpress-gatsby-sandbox.previews.mariaadelaide.com/graphql`,
         useACF: true
       },
     },
