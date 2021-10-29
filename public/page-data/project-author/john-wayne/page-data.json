@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-project-author-js",
+    "path": "/project-author/john-wayne/",
+    "result": {"data":{"allWpProject":{"edges":[{"node":{"id":"cG9zdDo3OQ==","title":"Hello Pilgrims","excerpt":"<p>s consectetur hendrerit. Curabitur egestas rhoncus mauris ac tristique. Phasellus sit amet pretium lacus. Praesent massa lorem, dictum vitae augue quis, dictum tristique risus. Mauris vitae elementum dui.</p>\n","slug":"hello-pilgrims","featuredImage":{"node":{"sourceUrl":"http://localhost:8888/wordpress-gatsby-sandbox/wp/wp-content/uploads/2021/10/pilgrim.jpg"}}}}]}},"pageContext":{"slug":"john-wayne","authorInfo":{"biography":"<p>Marion Michael Morrison, conhecido profissionalmente como John Wayne, e apelidado de Duke, foi um ator e cineasta estadunidense.</p>\n","photo":{"sourceUrl":"http://localhost:8888/wordpress-gatsby-sandbox/wp/wp-content/uploads/2021/10/john-wayne.jpg"}},"title":"John Wayne","uri":"/project-author/john-wayne/"}},
+    "staticQueryHashes": ["1267374167","1449657926","827659289"]}
