@@ -41,7 +41,7 @@ const ProjectsItems = (props) => {
         else query = getAllProjects;
 
 
-        fetch(`http://localhost:8000/___graphql`,
+        fetch(`https://wordpress-gatsby-sandbox.previews.mariaadelaide.com/graphql`,
             {
                 method: 'POST',
                 headers : {
